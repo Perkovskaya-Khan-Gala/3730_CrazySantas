@@ -1,4 +1,4 @@
-# five new Git commans
+# five new Git commands
 
 ## git clone
 *Команда __git clone__ копирует существующий репозиторий Git.*
